@@ -60,7 +60,6 @@ This is a two-week, NFT-gated cohort for training 10-30 participants to launch f
 
 | Option | Description |
 |--------|-------------|
-| 
 | 🎁 Additional MAV Rewards | Boost top cohort winners with MAV buys or airdrops |
 | 🧲 Bonus Contests | Mini-competitions for best lore, best token graphic, etc. |
 | 🛍 Merch / POAPs | Swag or digital collectibles for participants and grads |
