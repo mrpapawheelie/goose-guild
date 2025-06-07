@@ -51,8 +51,6 @@ This is a two-week, NFT-gated cohort for training 10-30 participants to launch f
 - Top 5 performers receive additional $GGG token rewards
 - Exclusive access to Goose Guild Graduate Group for program completers
 
-> 🧠 The Goose Guild cohort creates a structured, social, and onchain-native pathway for onboarding creators into the Goose and Maverick ecosystems — with **no dev lift, no upfront budget**, and **direct fee/revenue benefits** to the protocol. The program will incorporate a reward token that has a 2% buy fee and 6% sell fee in an effort to boost fees on Goose and provide some additional rewards to participants now. Participants will leverage Bankrbot on X and Farcaster to airdrop tokens for additional social exposure and something to add in a case study. We will track the wallets used for this to see how it enhances the usage on Goose.
-
 ---
 
 ## 🎯 Program Details
