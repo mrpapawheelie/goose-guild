@@ -14,11 +14,12 @@ This complexity creates a significant barrier to entry for creators and builders
 
 The Goose Guild addresses this challenge through a comprehensive, two-pronged approach:
 
-1. **Continuous Cohort Program**
+1. **Continuous Cohort Program** (10-30 participants per cohort)
    - Structured, social learning environment
    - Hands-on experience with all platform features
    - Certification of skills and accomplishments
    - Direct rewards and recognition for top performers
+   - Exclusive access to Goose Guild Graduate Group upon completion
 
 2. **Open-Source Template System**
    - Step-by-step GitHub template for token creation
@@ -36,12 +37,13 @@ This dual approach creates a pathway for:
 
 This is a two-week, NFT-gated cohort for training 10-30 participants to launch fully structured, fair-launch tokens using Goose.run and Maverick Protocol.
 
-- Participants pay 0.1 ETH to mint a **soulbound NFT**
+- Participants pay 0.1 ETH to mint a **soulbound NFT** (sold by Credexium)
 - 75% of revenue → Buy pressure for $GGG (Goose Guild Graduate Token)
 - 25% + creator rewards → Credexium ops funding
 - Builders are trained on branding, deployment, lending, voting, and marketing using Goose
 - Winners ranked by **market cap** + **fees generated**
 - Graduates receive badge NFTs + are eligible to lead future cohorts
+- Exclusive access to Goose Guild Graduate Group for program completers
 
 > 🧠 The Goose Guild cohort creates a structured, social, and onchain-native pathway for onboarding creators into the Goose and Maverick ecosystems — with **no dev lift, no upfront budget**, and **direct fee/revenue benefits** to the protocol. The program will incorporate a reward token that has a 2% buy fee and 6% sell fee in an effort to boost fees on Goose and provide some additional rewards to participants now. Participants will leverage Bankrbot on X and Farcaster to airdrop tokens for additional social exposure and something to add in a case study. We will track the wallets used for this to see how it enhances the usage on Goose.
 
@@ -197,6 +199,7 @@ This program is designed to **scale and compound**:
 | 🎁 Additional MAV Rewards | Boost top cohort winners with MAV buys or airdrops |
 | 🧲 Bonus Contests | Mini-competitions for best lore, best token graphic, etc. |
 | 🛍 Merch / POAPs | Swag or digital collectibles for participants and grads |
+| 🎯 Goose Platform Integration | Add banner/button on Goose platform for direct guild signup |
 
 ---
 
