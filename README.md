@@ -38,11 +38,17 @@ This dual approach creates a pathway for:
 This is a two-week, NFT-gated cohort for training 10-30 participants to launch fully structured, fair-launch tokens using Goose.run and Maverick Protocol.
 
 - Participants pay 0.1 ETH to mint a **soulbound NFT** (sold by Credexium)
-- 75% of revenue → Buy pressure for $GGG (Goose Guild Graduate Token)
+- 75% of NFT revenue → Buy pressure for $GGG (Goose Guild Graduate Token)
+  - Generates fees that benefit MAV stakers
+  - Creates sustainable reward pool for participants
 - 25% + creator rewards → Credexium ops funding
 - Builders are trained on branding, deployment, lending, voting, and marketing using Goose
 - Winners ranked by **market cap** + **fees generated**
-- Graduates receive badge NFTs + are eligible to lead future cohorts
+- Graduates receive:
+  - Badge NFTs
+  - $GGG token rewards
+  - Eligibility to lead future cohorts
+- Top 5 performers receive additional $GGG token rewards
 - Exclusive access to Goose Guild Graduate Group for program completers
 
 > 🧠 The Goose Guild cohort creates a structured, social, and onchain-native pathway for onboarding creators into the Goose and Maverick ecosystems — with **no dev lift, no upfront budget**, and **direct fee/revenue benefits** to the protocol. The program will incorporate a reward token that has a 2% buy fee and 6% sell fee in an effort to boost fees on Goose and provide some additional rewards to participants now. Participants will leverage Bankrbot on X and Farcaster to airdrop tokens for additional social exposure and something to add in a case study. We will track the wallets used for this to see how it enhances the usage on Goose.
@@ -78,14 +84,19 @@ This pilot trains 30 hand-selected participants to:
 
 1. **Soulbound NFT Entry**
    - 0.1 ETH to enter
-   - 75% of proceeds → buys $GGG token (adds buy pressure)
+   - 75% of proceeds → buys $GGG token
+     - Generates 2% buy / 6% sell fees
+     - Benefits MAV stakers through protocol fees
+     - Creates reward pool for participants
    - 25% + Goose creator rewards → Credexium compensation
 
-2. **Graduation NFTs**
+2. **Graduation NFTs & Rewards**
    - One for completing all tasks
+   - $GGG token rewards for all graduates
    - Special variants for:
      - Top 5 tokens by market cap/fee generation
      - Milestones (50k+ market cap, liquidity depth, etc.)
+   - Additional $GGG token rewards for top performers
 
 3. **Automated Token Distribution w/ BankerBot**
    - Each participant can send **up to 20 wallets per day**
