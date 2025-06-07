@@ -81,7 +81,7 @@ For **Participants**:
 
 ### 📊 Measurable Outcomes
 
-By end of pilot (2 Goose epics):
+By end of pilot (4 epochs over 2 weeks):
 
 - 30+ new tokens launched with matching docs + lore
 - 600+ wallets touched via BankerBot-powered micro airdrops
@@ -151,9 +151,9 @@ This program is designed to **scale and compound**:
 | Stage | Action |
 |-------|--------|
 | 🧪 Pre-Launch (T-minus 3 days) | Intro blog post, program announcement, open NFT mint |
-| 🚀 Launch Day (Epic 1 Start) | Social push, highlight early token launches |
-| 🌀 Midway Check-In (End of Epic 2) | X post + early leaderboard insight |
-| 🎯 Final Day (End of Epic 4) | Highlight top 5 tokens, biggest gains, fees earned |
+| 🚀 Launch Day (Epoch 1 Start) | Social push, highlight early token launches |
+| 🌀 Midway Check-In (End of Epoch 2) | X post + early leaderboard insight |
+| 🎯 Final Day (End of Epoch 4) | Highlight top 5 tokens, biggest gains, fees earned |
 | 📊 Postmortem (1–3 days later) | Publish final write-up or visual case study with data charts + outcomes |
 
 ---
